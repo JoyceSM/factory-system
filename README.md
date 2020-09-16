@@ -9,3 +9,6 @@ its completion through the ERP system. Additionally, this approach will allow th
 * Java Swing
 - JDBC
 + MySQL
+
+### Overview
+![Alt Text](https://github.com/JoyceSM/factory-system/blob/master/images/factory.gif)
